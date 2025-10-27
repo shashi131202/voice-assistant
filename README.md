@@ -154,6 +154,9 @@ notes.txt
 Each note entry includes a timestamp for better tracking.
 
 ---
+## Demo Video
+
+[🎬 View Project Demo](https://drive.google.com/file/d/1W_W9TV2C40UD4kl-lH1HpYXXr7cvNljT/view?usp=drivesdk)
 
 ## 💡 Tips
 
