@@ -163,5 +163,7 @@ Each note entry includes a timestamp for better tracking.
 
 ---
 ## Conclusion
-The Voice Assistant successfully demonstrates the integration of speech technologies with automation. It simplifies human-computer interaction by enabling voice-based commands for daily tasks, showcasing the power of AI in productivity tools. Future improvements could include natural language understanding and integration with IoT devices.
+
+*The Voice Assistant successfully demonstrates the integration of speech technologies with automation. It simplifies human-computer interaction by enabling voice-based commands for *daily tasks, showcasing the power of AI in productivity tools. Future improvements could include natural language understanding and integration with IoT devices.
+
 ---
